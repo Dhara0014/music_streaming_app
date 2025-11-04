@@ -17,8 +17,10 @@ Enjoy a clean, responsive UI, seamless data fetching, and a persistent global mu
 ## 🧰 Project Setup
 
 ```bash
+
+
 # 1. Clone the repo
-git clone https://github.com/your-username/musicstream.git
+git clone https://github.com/Dhara0014/music_streaming_app
 cd musicstream
 
 # 2. Install dependencies
